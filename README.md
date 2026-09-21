@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saim Ali 👋
 
-<!--
-**saim-ali-analyst/saim-ali-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Artificial Intelligence (Graduate, 2025)
+📍 Mardan, KPK, Pakistan
+🌱 Currently learning: Python, SQL, Git
+📚 Enrolled in: HCCDA AI (Meta-pi) Program
+🎯 Goal: Entry-level Data Analyst
 
-Here are some ideas to get you started:
+## Skills I'm building
+- Python (basics to OOP)
+- Git & GitHub
+- SQL (starting soon)
+- Excel & Power BI (next)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon...
+
+## Connect
+- LinkedIn: (add soon)
+- Email: saimalipk23200@gmail.com
